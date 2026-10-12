@@ -5,4 +5,4 @@ if p1<p2:
 elif p1>p2:
     print("first product is more expensive")
 else:
-    print("both products have the same price")
+    print("both products have the same price")`````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````                                                                                                   
